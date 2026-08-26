@@ -336,6 +336,3 @@ August 2026
 `grounded-di` `auditable-ai` `reproducible-ai` `legal-ai` `legal-benchmark` `harvey-lab` `briefwise` `deterministic-systems` `replayable-systems` `sha256` `ai-evaluation` `verification` `legal-tech` `build-in-public`
 
 ```
-
-**This is the README I’d ship.** It turns what currently looks like a miscellaneous social-media repository into a coherent **August 2026 public evidence record**, while very deliberately separating **188/188 provisional benchmark coverage**, **36→50 Ridgeline remediation**, and **actual byte-level reproducibility**.
-```
