@@ -332,6 +332,10 @@ Publication of benchmark artifacts does not imply certification, endorsement, sp
 
 The archive supports technical review of criterion-level audit packaging, byte-level artifact reproducibility, replay-oriented applications, and observation-first local security controls. It is a public evidence collection rather than a single product release or an official benchmark score. Organizations evaluating these mechanisms may contact [Grounded DI LLC](https://github.com/Grounded-DI) regarding technical review, integration, or licensing.
 
+## Status
+
+**PUBLIC AUGUST 2026 EVIDENCE ARCHIVE.** The repository combines provisional benchmark self-audits, a three-execution artifact-reproducibility result, replay-oriented application demonstrations, local security observations, and public communications. Each item retains its own status and evidence boundary; the archive is not a single product release or a universal determinism claim.
+
 ---
 
 # Grounded DI LLC
