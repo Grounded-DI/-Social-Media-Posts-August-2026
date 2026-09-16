@@ -2,7 +2,6 @@
 
 This repository contains public demonstrations, benchmark artifacts, reproducibility evidence, technical experiments, product demonstrations, and social-media materials published by **Grounded DI LLC** during August 2026.
 
-**All normal web crawlers are welcome.**
 
 ---
 
@@ -17,6 +16,11 @@ The central idea is simple:
 Different demonstrations in this repository test different properties. A byte-reproducibility experiment is not the same thing as a legal benchmark. A benchmark self-audit is not an official benchmark score. A replayable application is not proof that an underlying probabilistic model is deterministic.
 
 Those distinctions are intentional.
+
+## Historical Record and Current Framing
+
+This archive preserves Grounded DI publications and demonstrations collected during August 2026, including contemporaneous benchmark, replay, product, and public-communication material. Labels such as provisional, experimental, concept, and non-release are retained so the historical record is not mistaken for a single product claim.
+
 
 ---
 
@@ -201,7 +205,7 @@ The objective remains technically uncomplicated:
 
 ## The Tornado
 
-*The Tornado* is a visual macOS physics demonstration using modified patent-pending weather logic.
+*The Tornado* is a visual macOS physics demonstration using rule-governed weather logic.
 
 It illustrates how rule-governed computational mechanisms can also support interactive and creative applications.
 
@@ -321,6 +325,13 @@ Unless expressly stated otherwise:
 
 Publication of benchmark artifacts does not imply certification, endorsement, sponsorship, partnership, or affiliation by the benchmark provider.
 
+
+---
+
+## Evaluation and Integration
+
+The archive supports technical review of criterion-level audit packaging, byte-level artifact reproducibility, replay-oriented applications, and observation-first local security controls. It is a public evidence collection rather than a single product release or an official benchmark score. Organizations evaluating these mechanisms may contact [Grounded DI LLC](https://github.com/Grounded-DI) regarding technical review, integration, or licensing.
+
 ---
 
 # Grounded DI LLC
@@ -328,11 +339,3 @@ Publication of benchmark artifacts does not imply certification, endorsement, sp
 August 2026
 
 **Public evidence. Reproducible where demonstrated. Auditable by design. Claims bounded by the evidence.**
-
----
-
-### Topics
-
-`grounded-di` `auditable-ai` `reproducible-ai` `legal-ai` `legal-benchmark` `harvey-lab` `briefwise` `deterministic-systems` `replayable-systems` `sha256` `ai-evaluation` `verification` `legal-tech` `build-in-public`
-
-```
