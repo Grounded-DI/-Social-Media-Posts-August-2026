@@ -343,3 +343,12 @@ The archive supports technical review of criterion-level audit packaging, byte-l
 August 2026
 
 **Public evidence. Reproducible where demonstrated. Auditable by design. Claims bounded by the evidence.**
+
+## Central benchmark collection
+
+[Browse Grounded DI's benchmark and evaluation index](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/blob/main/BENCHMARK_INDEX.md).
+
+- [Preserved collection: harvey-earlier-packages](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/tree/main/benchmarks/harvey-earlier-packages)
+- [Preserved collection: ulam-reproducibility](https://github.com/Grounded-DI/Benchmarks-Cross-Domain/tree/main/benchmarks/ulam-reproducibility)
+
+The central entries separate earlier provisional Harvey checkpoints from bounded Ulam artifact reproducibility; overlapping audit checkpoints are not added to the later 501/501 result. This repository remains the canonical source for its own history and later corrections; the central collection is a dated public snapshot.
